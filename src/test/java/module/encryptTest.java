@@ -26,4 +26,11 @@ public class encryptTest {
     }
 
 
+    @Test
+    public void getWord() {
+    }
+
+    @Test
+    public void getKey() {
+    }
 }
